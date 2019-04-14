@@ -174,4 +174,8 @@ h1 {
     transform: rotate(0);
   }
 
+  #pricing {
+    height: inherit;
+  }
+
 }
